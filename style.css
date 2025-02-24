@@ -1,0 +1,94 @@
+h1.head{
+    text-align: center;
+    letter-spacing: 4px;
+    font-size: 40px;
+    font-weight: 200;
+    text-decoration: underline red;   
+    font-family: "Delicious Handrawn";
+    text-shadow: 6px 6px 3px purple;
+}
+body.todo{
+    background-color: sienna;
+    background-image: url(img/palmera-aislada-sobre-fondo-transparente-planta-palma-coco-png-ai-generativo_771335-59681.avif);
+    background-size: 5%;
+}
+img.imagen1{
+ border: solid 3px;
+ border-top-left-radius: 10px;
+ border-bottom-right-radius: 10px;
+ width: 150px;
+ border-style: dotted;
+ margin-top: 0%;
+ margin: 1%;
+ display: flex;
+ float: right;
+}
+div.caja1{
+border: solid 5px;
+border-radius: 15px;
+margin-right: 70%;
+height: 260px;
+background-color: green;
+border-style: double;
+
+}
+h3.titulo2{
+    margin: 0%;
+    color: yellow;
+    letter-spacing: 4px;
+}
+div.cajatitulo1{
+    border-bottom: solid 4px;
+    background-color: darkmagenta;
+}
+p.text1{
+   color: red;
+    margin: 0%;
+    display: flex;
+    letter-spacing: 2px;
+}
+table.tabla{
+    
+    color: white;
+    border: solid 3px black;
+    font-size: 30px;
+}
+div.cajatabla{
+    text-align: center;
+    background-color: darkmagenta;
+    margin-left: 39%;
+    margin-right: 40%;
+}
+td.rac{
+    border: solid 2px black;
+}
+div.caja3{
+    text-align: right;
+    margin-right: 10%;
+}
+img.link{
+    width: 200px;
+    background-color: black;
+    border: solid gold 6px;
+    border-radius: 20px;
+}
+img.link:hover{
+    background-color: red;
+}
+footer.final{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 7px;
+    text-decoration: underline;
+}
+div.cajaformul{
+    background-color: blueviolet;
+    text-align: center;
+    margin-left: 40%;
+    margin-right: 40%;
+    color: gold;
+    border: solid 10px;
+    border-radius: 22px;
+}
